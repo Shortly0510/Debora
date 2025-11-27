@@ -1,51 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package debo;
 
 import java.util.Scanner;
 
-/**
- *
- * @author santoiyan
- */
 public class Debo {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
-        //Scanner in = new Scanner (System.in);
-        /**int c = 0;
-        do {
-            System.out.println("Siapa nama anak paling baik?");
-            System.out.println("______");
-            String input = in.next();
-            if (input.equalsIgnoreCase("D")) {
-                System.out.println("D_____");
-            }
-            else if (input.equalsIgnoreCase("E")) {
-                
-            }
-            else if (input.equalsIgnoreCase("B")) {
-                
-            }
-            else if (input.equalsIgnoreCase("O")) {
-                
-            }
-            else if (input.equalsIgnoreCase("R")) {
-                
-            }
-            else if (input.equalsIgnoreCase("A")) {
-                
-            }
-            else {
-                System.out.println("Coba Lagi!");
-                c = c+1;
-            }
-        } while (c < 3);*/
         // --- 1. DEKLARASI AWAL ---
         // Kata yang harus ditebak (bisa diganti sesuai keinginan)
         String kataRahasia = "DEBORA";
@@ -128,3 +88,4 @@ public class Debo {
     }
     
 }
+
